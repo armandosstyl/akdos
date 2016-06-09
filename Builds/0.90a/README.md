@@ -18,7 +18,9 @@ Right-click on AkDOS.jar and select Create Shortcut from the dropdown menu.
 
 Right-click on the shortcut created and select Properties from the dropdown menu.
 
-Add the following commands in the text box next to **Target:** java -jar
+Add the following commands in the text box next to **Target:** java -jar at the **beginning** of the text box.
+
+e.g. "java -jar C:\[the location of the folder you created]\AkDOS.jar"
 
 Click on OK to close the Shortcut Properties window.
 
