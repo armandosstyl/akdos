@@ -7,24 +7,18 @@ if AkDOS works on other platforms (Linux, Mac, or Win x86).
 ## Installation
 
 ### Requirements
-Please make sure you have the **Java Runtime Environment (JRE) version 1.8.0_91+** installed on your computer.
+AkDOS 0.90a was bundled with the  **Java Runtime Environment (JRE) version 1.8.0_91** using Launch4j.
+If you receive any errors while running this program, regarding the JRE or the Java Virtual Machine,
+try installing the JRE manually and running the application again.
 [You can find the JRE here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html "Download JRE")
 
 ### Step-by-step guide
 
-Create a folder and copy **AkDOS.jar** there.
+Create a folder where you wish to extract the zipped file
 
-Right-click on AkDOS.jar and select Create Shortcut from the dropdown menu.
+Extract Akdos_090a_x64.zip inside the folder you created
 
-Right-click on the shortcut created and select Properties from the dropdown menu.
-
-Add the following commands in the text box next to **Target:** java -jar at the **beginning** of the text box.
-
-e.g. "java -jar C:\[the location of the folder you created]\AkDOS.jar"
-
-Click on OK to close the Shortcut Properties window.
-
-Double-click on the AkDOS Shortcut.
+Double-click on akdos.exe
 
 AkDOS should now be running fine. The default username is *A-DA 0609* and the password is *drakolimni_1911*.
 
