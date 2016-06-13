@@ -7,7 +7,7 @@ if AkDOS works on other platforms (Linux, Mac, or Win x86).
 ## Installation
 
 ### Requirements
-AkDOS 0.90a comes bundled with  **Java Runtime Environment (JRE) version 1.8.0_91**.
+AkDOS 0.90a was bundled with the  **Java Runtime Environment (JRE) version 1.8.0_91** using Launch4j.
 If you receive any errors while running this program, regarding the JRE or the Java Virtual Machine,
 try installing the JRE manually and running the application again.
 [You can find the JRE here](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html "Download JRE")
