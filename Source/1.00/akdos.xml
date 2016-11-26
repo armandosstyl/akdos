@@ -1,0 +1,262 @@
+<?xml version="1.0"?>
+<entries>
+	<entry>
+        <id>V-AN 1106</id>
+        <cat>Vampire</cat>
+        <name>Vrihi</name>
+        <text>From the ancient Greek term vrihos, roar. A lost clan of Vampires from ancient &#xA;Athens. Rumored to have all disappeared with the Roman conquest of the city. &#xA;Their mythical powers supposedly involved time manipulation, and the ability to &#xA;infest large parts of the local populace with their emotional state.</text>
+	</entry>
+    <entry>
+        <id>V-CV 0101</id>
+        <cat>Vampire</cat>
+		<name>Ventrue</name>
+        <text>A clan of power-hungry, dominating Vampires. They rule their undead society of &#xA;monsters, calling themselves 'Lords' or 'Undefeated'. Vampiric apocrypha places &#xA;them in Rome, Carthage, and even Troy. Last documented contact with one of these &#xA;Vampires was made near the end of the 1950s. No further mention of them from our &#xA;contacts in vampire society. They appear to be all but gone from Athens.</text>
+	</entry>
+    <entry>
+        <id>V-CV 0097</id>
+        <cat>Vampire</cat>
+        <name>Daeva</name>
+        <text>Hedonistic monsters, they consider themselves the Serpents from the Garden of &#xA;Eden. They savour spending time around people, tempting them to do unspeakable &#xA;things for the sake of want and desire. A recurring theme in their mythology is &#xA;Ishtar, Lilith, and the owl demons of Babylon. By engaging them, we risk having &#xA;our agents defecting in servitude of these succubi.</text>
+    </entry>
+    <entry>
+        <id>V-CV 0098</id>
+        <cat>Vampire</cat>
+        <name>Gangrel</name>
+        <text>Even other vampires seem to think of the Gangrel as Savages, part werewolves &#xA;part Vampires with various violent tendencies. Those we have encountered seem to &#xA;wear these insults like badges of honour. We would have uffered great losses at &#xA;their fleshcrafting hands and claws, if not for the recent, suspicious change &#xA;of events. First the Ventrue disappear, now these monsters fall out of favour &#xA;with whomever is the vampire 'Prince' these days. Others increasingly refer to &#xA;them as 'Metics'.</text>
+    </entry>
+    <entry>
+        <id>V-CV 0099</id>
+        <cat>Vampire</cat>
+        <name>Mekhet</name>
+        <text>The Shadows, as they like to refer to themselves, are a formidable rival the &#xA;Aegis kai Doru omes the closest (as we can come with monsters) to respecting. &#xA;Their archives and collections of relics rival ours. If they were to discover &#xA;our underground base in Pendeli, they would undoubtedly attempt to infiltrate us &#xA;and steal our secrets. Do not trust them, even as they convince you of their &#xA;scholarly characters, and do not trust your own shadows around them.</text>
+    </entry>
+    <entry>
+        <id>V-CV 0100</id>
+        <cat>Vampire</cat>
+        <name>Nosferatu</name>
+        <text>The true monsters among monsters. All agents who have previously engaged one of &#xA;them, has subsequently required extensive leave and intensive psychiatric &#xA;treatment. Their origins are ancient, descending from the ancient Nosophoroi of &#xA;classical Athens. Despite their horrific appearance, other 'clans' seem to &#xA;respect them and grant them titles of honour in politics and vampire religion. &#xA;We can confirm they maintain an underground hub of tunnels and catacombs, with &#xA;entrances (at the very least) located in Plato's prison, the Byzantine church at &#xA;the end of Ermou Street, and quite likely here in Pendeli somewhere.</text>
+    </entry>
+    <entry>
+        <id>V-O 0001</id>
+        <cat>Vampire</cat>
+        <name>Invictus</name>
+        <text>From what we gather, they are a secret society of Vampires dedicated to keeping &#xA;their existence secret from humans. These so-called 'Invictus' appear to control &#xA;large sections of the Western world's governments and large businesses, so we &#xA;advise our agents to proceed with caution and discretion. In Athens, they seem &#xA;to control the Vampire Prince Kallikrates.</text>
+    </entry>
+    <entry>
+        <id>V-O 0006</id>
+        <cat>Vampire</cat>
+        <name>Lancea Et Sanctum</name>
+        <text>Error: Database Corruption
+        &#xA;Please contact the administrator.</text>
+    </entry>
+    <entry>
+        <id>V-O 0004</id>
+        <cat>Vampire</cat>
+        <name>Ordo Dracul</name>
+        <text>A secret society of vampire scholars, dedicated to the improvement of their &#xA;kind even above the superhuman levels afforded to vampires. They are led by an &#xA;undead Phanariot that goes by the name Petros Kallimachis. The Inner Circle has &#xA;advised restraint in our encounters with these particular monsters.</text>
+    </entry>
+    <entry>
+        <id>V-CV 0001</id>
+        <cat>Vampire</cat>
+        <name>Vampires</name>
+        <text>Undead monsters who invade the bodies of recently deceased humans, claiming &#xA;their former identity and memories as theirs. They subsist on human blood, &#xA;flesh, and/or 'souls' (or 'life force', for lack of a better term). They &#xA;organize in worldwide sects called 'covenants' and appear to adhere to a system &#xA;of lineage called the 'clan' system. Unless killed, they survive for eternity &#xA;and like parasites, they attempt to infiltrate and manipulate mortal &#xA;institutions. Fatal weaknesses include: sunlight, fire, wooden stakes, &#xA;decapitation, holy symbols. They have always been here, like a dark shadow that &#xA;followed us out of the Garden or away from Atlantis.</text>
+    </entry>
+    <entry>
+        <id>V-CV 0002</id>
+        <cat>Vampire</cat>
+        <name>Clan</name>
+        <text>A lineage of Vampires, sharing the same blood and basic characteristics and &#xA;powers. In the present day, five large clans are recognized: Daeva, Gangrel, &#xA;Mekhet, Nosferatu, and Ventrue.</text>
+    </entry>
+    <entry>
+        <id>V-CV 2066</id>
+        <cat>Vampire</cat>
+        <name>Covenants</name>
+        <text>Vampiric sects, secret societies, and/or orders. Examples include the: &#xA;Invictus, Lancea Et Sanctum, and the Ordo Dracul.</text>
+    </entry>
+    <entry>
+        <id>V-AN 1037</id>
+        <cat>Vampire</cat>
+        <name>Striges</name>
+        <text>Inconclusive data. The vampires talk about them alot, as if these 'Striges' &#xA;hold some ancient grudge against them. Historical research only mentions a &#xA;particular type of demon, among many. Related topics: Land of Nod.</text>
+    </entry>
+    <entry>
+        <id>V-AN-OD 0389</id>
+        <cat>Vampire</cat>
+        <name>Hermann R.</name>
+        <text>Supposedly an undead psychiatrist and second-in-command to the Ordo Dracul &#xA;leader in Athens. Encounters with Dr. R. have been unnerving for our agents, to &#xA;say the least. His communication with us has nonetheless provided us with &#xA;considerable insight on the behaviour and weaknesses of supernaturals. The Inner &#xA;Circle seems to consider him and the rest of the so-called Dragons as our &#xA;unlikely allies for now. Agents report that he has been seen frequenting Vathis &#xA;Square.</text>
+    </entry>
+    <entry>
+        <id>AkD-A 0000</id>
+        <cat>Agent</cat>
+        <name>Daedalus</name>
+        <text>In Eden (some might call it Atlantis instead), we, the Guardians of the &#xA;Labyrinth, served as the great artificers among the enlightened Men and Women.
+        &#xA;We were led by Daedalus, the greatest of our order, and we built the Great &#xA;Labyrinths. Some to contain hubristic magick, others to contain monsters. One &#xA;Labyrinth failed, the one Pandora watched over, and darkness sprung forth: &#xA;shapeshifters and other monsters. Panicked, magician turned against magician, &#xA;and all against us. Some fled to the lands beyond Eden, others to the lands &#xA;above. Eventually, no memory of the paradise we had left behind remained. On &#xA;that day, Daedalus disappeared forever. We still hunt down what escaped our &#xA;Labyrinths. That is our mission and our burden...</text>
+    </entry>
+    <entry>
+        <id>AkD-A 0609</id>
+        <cat>Agent</cat>
+        <name>Antigoni Avtzi</name>
+        <text>Status: Decommisioned.
+        &#xA;
+        &#xA;A promising, talented former agent of AkD. Decommisioned on suspicion of &#xA;collaboration with Vampires (due to questionably high life expectancy). &#xA;Suspected substance abuse. Notes available in the Archives.
+        &#xA;
+        &#xA;Notable cases: Black Rose [AkD-A 0611], The Renfield Project, St. George, Hammer of the Witch</text>
+    </entry>
+    <entry>
+        <id>AkD-A 0611</id>
+        <cat>Agent</cat>
+        <name>Melanthos Avtzis</name>
+        <text>Status: Missing
+        &#xA;
+        &#xA;An agent of note from the turn of last century. Went missing in the late 1920s, &#xA;during early inquiries on what would become the St. George project.
+        &#xA;
+        &#xA;Notable cases: St. George [early stages], Hammer of the Witch, Akritas Project [early stages]</text>
+    </entry>
+    <entry>
+        <id>AkD-O 0000</id>
+        <cat>Organization</cat>
+        <name>Inner Circle</name>
+        <text>WARNING!  You lack access-privileges to the selected log file. Please contact &#xA;the administrator if you think this you shouldn't be seeing this error &#xA;message.</text>
+    </entry>
+    <entry>
+        <id>AkD-A 0019</id>
+        <cat>Agent</cat>
+        <name>Ioannis Kapodistrias</name>
+        <text>Though only an associate member, Kapodistrias was instrumental in our &#xA;organization's later return to Greece. We have in our archives several &#xA;conflicting accounts of his relationship with secret societies, including the &#xA;Freemasons. As Governon, he assisted our agents in their dealings with the &#xA;state, the authorities, and the captains of influential Greek families.While his &#xA;death was carried out by the Mavromichalis clan, an account from that time also &#xA;mentions the involvement of an obscure line of Vampires from the Lancea et &#xA;Sanctum, who opposed his introduction of Greece's first modern quarantine &#xA;system.</text>
+    </entry>
+    <entry>
+        <id>AkD-O 0001</id>
+        <cat>Organization</cat>
+        <name>Aegis kai Doru</name>
+        <text>Before the Great Flood, we served as the Guardians of the Labyrinth in Atlantis &#xA;(or Mu, or Lemuria). We were what stood between humans and the darkness. Then &#xA;the Lost Continent sank into the Shadows... Our agents have not forgotten their &#xA;ancient duty, and stand vigilant against the hordes of monsters. We collect, &#xA;examine, investigate, and experiment, to aid us in our battle against magicians &#xA;and lycanthropes. We are bound together by the rulings and direction of an Inner &#xA;Circle, located here in Athens, Greece. Always be mindful of your duties, &#xA;agent.</text>
+    </entry>
+    <entry>
+        <id>H-O 5245</id>
+        <cat>Organization</cat>
+        <name>Thule Society</name>
+        <text>Error: Database Corruption
+        &#xA;Please contact the administrator.</text>
+    </entry>
+    <entry>
+        <id>H-O 0003</id>
+        <cat>Organization</cat>
+        <name>Malleus Maleficarum</name>
+        <text>Also known as 'the Inquisition' or 'the Shadow Congregation'. They seem to be &#xA;tied to the Catholic Church, although they are apparently not the only ones (see &#xA;Lancea Et Sanctum). They are what remains of the medieval Inquisition, &#xA;continuing their hunt against witches, vampires, and demons. At least three holy &#xA;orders exist in their ranks: the 'Order of St. Longinus', the 'Order of St. &#xA;Ambrose', and the 'Brotherhood of St. Athanasius'. Bishop Ambrogio Baudolino &#xA;seems to be a person of interest.</text>
+    </entry>
+    <entry>
+        <id>H-O 0666</id>
+        <cat>Organization</cat>
+        <name>Lucifuge</name>
+        <text>Error: Database corruption
+        &#xA;Please contact the administrator.</text>
+    </entry>
+    <entry>
+        <id>H-O 0044</id>
+        <cat>Organization</cat>
+        <name>Cheiron Group</name>
+        <text>A European multinational corporation, with expanding operations around the &#xA;world. Though our research is inconclusive, they seem to be investigating the &#xA;supernatural. Their expansion, from a small European pharmaceutical company &#xA;founded in 1904, to a global conglomerate, is suspicious at the very least. &#xA;Subsidiaries have already began infiltrating the Greek market.</text>
+    </entry>
+    <entry>
+        <id>H-O 0081</id>
+        <cat>Organization</cat>
+        <name>Organization X</name>
+        <text>A small hunter organization, with ties to its earlier namesake from the Greek &#xA;Civil War (1946-1949). They have made continuous requests to access our archives &#xA;in Pendeli, all of which we turned down. As an organization staffed by &#xA;individuals of all political and ideological backgrounds, we cannot condone to &#xA;any co-operation with the instigators of political violence in this country. &#xA;Recently, requests have given way to blatant threats, a result of their &#xA;underestimation of our power. Agents of Aegis kai Doru have already deciphered &#xA;their patterns of hierarchy: 'X' is governed by a Triumvirate that was alive and &#xA;influential in the Organization since its inception.</text>
+    </entry>
+    <entry>
+        <id>L-DS 0101</id>
+        <cat>Log</cat>
+        <name>[Draft 23]</name>
+        <text>SOS SOS SOS!!!1!!1
+        &#xA;
+        &#xA;To our brothers and sisters of Aegis Kai Doru in Europe.
+        &#xA;Our headquarters in Pendeli have been compromised. We have evacuated the Inner &#xA;Circle from the city!
+        &#xA;
+        &#xA;Please send immediate awefpoiwqej XXXXXXXX
+        &#xA;[Draft Saved, not sent]</text>
+    </entry>
+    <entry>
+        <id>M-O 0055</id>
+        <cat>Mage</cat>
+        <name>Pentacle</name>
+        <text>An alliance of five, large magical orders, dating back to the Middle Ages. We &#xA;only know them by name: the Adamantine Arrow, the Guardians, the Mysterium, the &#xA;Silver Ladder, and the Council of Free Magicians.</text>
+    </entry>
+    <entry>
+        <id>M-O 0062</id>
+        <cat>Mage</cat>
+        <name>Seers</name>
+        <text>Power-hungry magicians who rival the vampires of the Invictus in their desire &#xA;to control our world. They claim to be receiving their directions from the &#xA;Gods.</text>
+    </entry>
+    <entry>
+        <id>V-CV 3820</id>
+        <cat>Vampire</cat>
+        <name>Tremere</name>
+        <text>Also known as the Sons of Phobos (?). Vampire magicians, the product of an &#xA;unholy union between these two abominations of the Labyrinth. They exist in &#xA;small numbers, if they even exist at all in any given city.</text>
+    </entry>
+    <entry>
+        <id>L-CR 0039</id>
+        <cat>Log</cat>
+        <name>The Black Rose</name>
+        <text>[Digitized excerpt from the report of agent AkD-A 0609]:
+        &#xA;So far, I have failed to locate agent AkD-A 0611. Though my superiors have &#xA;advised that we cease looking for the missing agent, I feel honour-bound to &#xA;report that I will do no such thing in the foreseeable future. The leadership of &#xA;Aegis Kai Doru knows of my personal ties with agent AkD-A 0611, and thus &#xA;understands why I will not stop looking, even if it requires of me more than a &#xA;single lifetime of investigation. Let the chips fall where they may.</text>
+    </entry>
+    <entry>
+        <id>L-O 0171</id>
+        <cat>lycanthropes</cat>
+        <name>Tribes</name>
+        <text>Groups of lycanthropes, or werewolves, based on the spirit totem they choose to &#xA;follow. Each spirit totem represents some primordial, shapeshifting deity who &#xA;descent from a mythical 'Father of the Wolf Gods'. Lycanthropes also seem to &#xA;also organize around packs, lunar phases (which gift each werewolf with an &#xA;archetype such as 'The Warrior' or 'The Shaman'), and Lodges.</text>
+    </entry>
+    <entry>
+        <id>L-CL 0689</id>
+        <cat>Lycanthropes</cat>
+        <name>Idigam</name>
+        <text>Chthonic spirits and enemies of the lycanthropes, these are symbolisms that &#xA;existed before our world was fully formed. These Idigam seem to be an enemy of &#xA;all reality, so we must dread the day that we might have to collaborate with &#xA;those who pushed us out of Eden, for the benefit of all reality.</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 0119</id>
+        <cat>Relic</cat>
+        <name>Adrastea's Talisman</name>
+        <text>Location: E-2
+        &#xA;
+        &#xA;Adrastea was a minor deity personifying the human instinct for vengeance. This &#xA;particular relic was supposedly crafted in Byzantine times, by a blind pagan &#xA;jeweler, at the request of the mother of a girl plagued by 'vaskania' (the 'evil &#xA;eye'). The girl was dying by the charms of an envious witch, but the charm still &#xA;needed the blessing of a holy man. Only a pious Orthodox priest agreed to bless &#xA;it, an act for which he was excommunicated and lynched by his own flock.</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 1630</id>
+        <cat>Relic</cat>
+        <name>Finger of the Kalikantzaros</name>
+        <text>Location: E-2
+        &#xA;
+        &#xA;A stiff, curled-up finger of a Kalikantzaros. The claw on the tip of the finger &#xA;is sharp and filthy. Whenever in the presence of fairies or other Kalikantzaroi, &#xA;the tightly-shut finger extends and points towards the general direction in &#xA;which the supernatural is hiding.</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 0200</id>
+        <cat>Relic</cat>
+        <name>Eye of the Graeae</name>
+        <text>Location: E-3
+        &#xA;
+        &#xA;A quartz crystal the size, and shape, of a human eyeball. Rumored to be the eye &#xA;shared by the Graeae of antiquity, stange colors constantly swirl within its &#xA;depths -suggesting the iris and pupil of some strange, ancient monster. &#xA;Replacing one's eyeball with the crystal reveals the location of an object or &#xA;person its new owner is seeking.</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 0061</id>
+        <cat>Relic</cat>
+        <name>Skeleton Key</name>
+        <text>Location: D-4
+        &#xA;
+        &#xA;A small silver, tarnished key whose teeth are shaped and grooved in such a way &#xA;as to suggest human dentition, with the bow adorned with a detailed design of a &#xA;human skull. The Skeleton Key is rumored to open any door, for a price. The Key &#xA;is rumored to have at least once opened a gateway to another world (or &#xA;dimension).</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 0935</id>
+        <cat>Relic</cat>
+        <name>Blood of the ancient Vrihi</name>
+        <text>Location: Missing
+        &#xA;
+        &#xA;A vial of the mystically preserved blood of a truly ancient Vampire from the &#xA;lost clan of the Vrihi. The vial has never been opened, and no account on &#xA;similar relics survives, so we cannot know for certain what its properties &#xA;are.</text>
+    </entry>
+    <entry>
+        <id>AkD-RC-P 2083</id>
+        <cat>Relic</cat>
+        <name>Aegis Talisman</name>
+        <text>Location: D-3
+        &#xA;
+        &#xA;According to legend, this talisman was made out of a piece from a shield Zeus &#xA;crafted to fight against Echidna, Typhon, and their offspring, when they &#xA;assaulted Mount Olympus. The talisman has been used by our agents before, at &#xA;times of grave danger. Our experience is that it protects its wielder from all &#xA;mundane and supernatural threats.</text>
+    </entry>
+</entries>
